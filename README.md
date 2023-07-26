@@ -11,4 +11,4 @@ Fork this tutorial and add your name to the README.md
 
 ### Oumarou Soro
 
-* Msc. Molecular Biology and Biotechnology
+* Msc Molecular Biology and Biotechnology
